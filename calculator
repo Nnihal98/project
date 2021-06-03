@@ -18,7 +18,7 @@ elif(n3==2):
 elif(n3==3):
  x=n1*n2
  print(x)
-elif(n3==2):
+elif(n3==4):
  x=n1/n2
  print(x)
 
