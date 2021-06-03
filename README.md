@@ -11,16 +11,17 @@ n3 =int(input('number'))
 
 if(n3==1):
  x=n1+n2
-    print(x)
+ print(x)
 elif(n3==2):
  x=n1-n2
-    print(x)
+ print(x)
 elif(n3==2):
  x=n1-n2
-    print(x)
+ print(x)
 elif(n3==2):
  x=n1*n2
-    print(x)
+ print(x)
 elif(n3==2):
  x=n1/n2
-    print(x)
+ print(x)
+
