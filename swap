@@ -1,0 +1,8 @@
+print('Enter two value')
+a =int(input('enter value of a'))
+b =int(input('enter value of b'))
+a=a+b
+b=a-b
+a=a-b
+print(f'value of a:{a}' )
+print(f'value of b:{b}' )
