@@ -1,9 +1,12 @@
 x=int(input('Print fibonacci upto : '))
-a=0
-b=1
-while(a<=x):
+
+def fibonacci(x):
+ a=0
+ b=1
+ while(a<=x):
  
- print(a)
- c=a
- a=b
- b=a+c
+  print(a)
+  c=a
+  a=b
+  b=a+c
+fibonacci(x)
